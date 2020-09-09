@@ -6,4 +6,4 @@
 4. Functions
 5. Conditions
 6. Loops
-7. Misc
+
