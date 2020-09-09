@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "\e[Welcome To Devops world in devops\e[0m"
+echo -e "\e[1Welcome To Devops world in devops\e[0m"
